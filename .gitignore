@@ -1,0 +1,11 @@
+#Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+#Ignore virtual envs
+venv/
+env/
+
+#Ignore files related to datasets
+data/*/*.zip
+data/*/*.gr
+data/*/*.html
